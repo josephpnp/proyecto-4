@@ -1,7 +1,4 @@
-# README: Real Time Color Detection Tool
-
-Color Tester Demo](demo.gif) *(Note: Attach a demo GIF after testing the application)
-
+# Color Tester Tool
 ## Description
 This interactive tool allows you to detect specific colors in real time using your computer's camera. It uses the LAB (Luminosity, A-axis, B-axis) color space which offers better results for color detection than traditional RGB, especially under different lighting conditions.
 
